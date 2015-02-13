@@ -28,24 +28,6 @@ You should calculate the size as remaining energy in container as a fraction fro
 The result should be represented as two numbers - numerator and denominator.
 Zero should be represented as (0, 1).
 
-
-<div class="for_info_only">
-<p>
-    <strong>Example:</strong>
-</p>
-<pre class="brush: python">
-</pre>
-</div>
-
-<p class="for_info_only">
-<strong>How it is used: </strong>
-
-</p>
-
-<p>
-<strong>Precondition:</strong><br>
-<br>
-</p>
 **Input:** Sizes of groups as a tuple of integers. 
 
 **Output:** The remaining of the pie as a list or tuple of two integers.

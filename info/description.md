@@ -24,22 +24,3 @@ If not, then size will be negative. The recent example will given as (2, -1, 3).
 You should calculate the size as remaining energy in container as a fraction from the start size.
 The result should be represented as two numbers - numerator and denominator.
 Zero should be represented as (0, 1).
-
-
-<div class="for_info_only">
-<p>
-    <strong>Example:</strong>
-</p>
-<pre class="brush: python">
-</pre>
-</div>
-
-<p class="for_info_only">
-<strong>How it is used: </strong>
-
-</p>
-
-<p>
-<strong>Precondition:</strong><br>
-<br>
-</p>
