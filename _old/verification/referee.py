@@ -55,5 +55,5 @@ api.add_listener(
             'python-3': cover_code
         },
         checker=str_results,
-        function_name="divide_pie"
+        DEFAULT_FUNCTION_NAME="divide_pie"
     ).on_ready)
