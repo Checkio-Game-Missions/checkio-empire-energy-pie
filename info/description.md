@@ -16,7 +16,15 @@ You are given an ordered array with sizes of the groups in the order they arrive
 If a group knows about the initial charge capacity, then the charge is positive.
 If not, then charrge will be negative. The recent example will given as (2, -1, 3).
 
-![Pie](oil-pie.png)
+```
+######   ******   ......   ...... 
+######   ******   ......   ......
+######   ######   ****##   ....**
+######   ######   ######   ****** 
+######   ######   ######   ******
+######   ######   ######   ****##
+ init      2        -1       3
+```
 
 You should calculate the amount as remaining energy in the container as a fraction from the starting size.
 The result should be represented as two numbers - numerator and denominator.
