@@ -1,6 +1,6 @@
 The robots were returning to the energy charging base in small groups or by themselves and did not see each other upon their return. This meant that each group did not know how many robots had fueled their part of the squad energy container.
 Some groups knew what the charged capacity of the battery was,
-but other groups didn't know this information and think the remaining juice is the full capacity of the batery, then take their portion from the remaining electricity.
+but other groups didn't know this information and think the remaining juice is the full capacity of the battery, then take their portion from the remaining electricity.
 So, each group had divided the remaining or initial charge and took their part.
 How much power will remain after all of the robots return from their mission?
 
@@ -14,7 +14,7 @@ They took half of the original container, so the remaining is `5/9 - 3/6 = 1/18`
 
 You are given an ordered array with sizes of the groups in the order they arrived.
 If a group knows about the initial charge capacity, then the charge is positive.
-If not, then charrge will be negative. The recent example will given as (2, -1, 3).
+If not, then charge will be negative. The recent example will given as (2, -1, 3).
 
 ```
 ######   ******   ......   ...... 
